@@ -3,14 +3,16 @@
 ## AIM: To create UML diagrams for Railway Management System
 
 ## SRS (Procedure):
-Create the following diagrams in StarUML:
 
-Use Case Diagram
-Class Diagram
-Activity Diagram
-Package Diagram
-Communication Diagram
-Sequence Diagram
+Create the following diagrams in StarUML:
+1) Use Case Diagram
+2) Class Diagram
+3) Activity Diagram
+4) Package Diagram
+5) Communication Diagram
+6) Sequence Diagram
+
+
 ## DIAGRAMS:
 ### USE CASE DIAGRAM:
 ![image](https://github.com/user-attachments/assets/f6ac7c1a-477c-402a-b747-288519460213)
